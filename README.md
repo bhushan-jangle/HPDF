@@ -47,5 +47,5 @@ Each endpoint serves different uses. In the app.js each METHOD is grouped togeth
                                     POST /input
                                 
 
-    /display	    POST	    Displays the data sent from GET /display to the browser as 
-                                  response and in the Console also
+    /display	    POST	            Displays the data sent from GET /display to the browser as 
+                                        response and in the Console also
