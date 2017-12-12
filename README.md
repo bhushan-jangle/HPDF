@@ -43,7 +43,7 @@ Each endpoint serves different uses. In the app.js each METHOD is grouped togeth
                                     http://localhost:8080/image
                                 
 
-    /input	        GET	        Responds with a HTML form that sends user entered data to 
+    /input	            GET	        Responds with a HTML form that sends user entered data to 
                                     POST /input
                                 
 
