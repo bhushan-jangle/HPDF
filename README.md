@@ -26,5 +26,5 @@ Endpoint | METHOD | Description
 /robots.txt	 | GET | Responds with a 403 status code and returns at http://httpbin.org/deny
 /html | GET | Responds with  HTML page that works even in Windows.
 /image | GET | Responds with Image page that works at http://localhost:8080/image
-/input | GET | Responds with a HTML form that sends user entered data to POST /input
-/display | POST | Displays the data sent from GET /display to the browser as response.
+/input | POST | Responds with a HTML form that sends user entered data to POST /input. And Displays the data sent from GET /display to the browser as response. 
+
