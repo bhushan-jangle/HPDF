@@ -1,6 +1,8 @@
-#HPDF-Task one
-###The first task as part of The Hasura Product Development Fellowship.
-##Installation
+# HPDF-Task one
+
+### The first task as part of The Hasura Product Development Fellowship.
+
+## Installation
 
 a) First, you are required to run NPM inside this project which can be achieved by doing this NPM
 
@@ -9,7 +11,8 @@ a) First, you are required to run NPM inside this project which can be achieved 
 b) Now, you can simply start the application by running this command 
 
     $ node
-##Endpoints
+    
+## Endpoints
 
 Each endpoint serves different uses. In the app.js each METHOD is grouped together.
 
