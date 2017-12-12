@@ -17,6 +17,18 @@ Endpoints
 Each endpoint serves different uses. In the app.js each METHOD is grouped together.
 
 
+Endpoint | METHOD | Description
+------------ | ------------- | -------------
+/ | Content from cell 2 | Content from cell 3
+/authors | Content from cell 2 | Content from cell 3
+/setcookie | Content from cell 2 | Content from cell 3
+/getcookies | Content from cell 2 | Content from cell 3
+/robots.txt	 | Content from cell 2 | Content from cell 3
+/html | Content from cell 2 | Content from cell 3
+/image | Content from cell 2 | Content from cell 3
+/input | Content from cell 2 | Content from cell 3
+/display | Content from cell 2 | Content from cell 3
+
 
 Endpoint            METHOD          Description
 
