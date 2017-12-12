@@ -10,7 +10,7 @@ a) First, you are required to run NPM inside this project which can be achieved 
 
 b) Now, you can simply start the application by running this command 
 
-    $ node.
+    $ node
 
 Endpoints
 
@@ -37,9 +37,9 @@ Each endpoint serves different uses. In the app.js each METHOD is grouped togeth
                                     http://httpbin.org/deny
                                 
 
-    /html	        GET	        Responds with  HTML page that works even in Windows.
+    /html	            GET	        Responds with  HTML page that works even in Windows.
 
-    /image	        GET	        Responds with Image page that works at 
+    /image	            GET	        Responds with Image page that works at 
                                     http://localhost:8080/image
                                 
 
