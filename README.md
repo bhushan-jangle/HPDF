@@ -18,7 +18,7 @@ Each endpoint serves different uses. In the app.js each METHOD is grouped togeth
 
 
 
-    Endpoint    METHOD          Description
+Endpoint            METHOD          Description
 
     /	            GET             Returns the index page of the site at http://localhost:8080/
     
