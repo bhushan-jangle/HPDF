@@ -19,9 +19,9 @@ Each endpoint serves different uses. In the app.js each METHOD is grouped togeth
 
 Endpoint | METHOD | Description
 ------------ | ------------- | -------------
-/ | GET | Content from cell 3
-/authors | GET | Returns the index page of the site at http://localhost:8080/
-/setcookie | GET | Fetches list of authors and posts from an API and prints a list of authors and the count of their posts.
+/ | GET | Returns the index page of the site at http://localhost:8080/
+/authors | GET | Fetches list of authors and posts from an API and prints a list of authors and the count of their posts. 
+/setcookie | GET | The server sets two cookies (name, age) which contains the name and age of the author.
 /getcookies | GET | Responds with the content took from the cookie saved previously by /setcookie endpoint.
 /robots.txt	 | GET | Responds with a 403 status code and returns at http://httpbin.org/deny
 /html | GET | Responds with  HTML page that works even in Windows.
