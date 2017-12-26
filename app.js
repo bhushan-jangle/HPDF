@@ -75,7 +75,7 @@ app.get('/getcookies', (req, res) => {
 
 //Deny requests to your http://localhost:8080/robots.txt page.
 app.get('/robots.txt',function(req,res){
-  res.redirect('http://httpbin.org/deny');
+  res.sendfile('robots.txt');
 });
 
 //Render an HTML page at http://localhost:8080/html
